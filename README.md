@@ -1,6 +1,6 @@
 # 📊 Power BI Financial Dashboard (2013–2018)
 
-A **Power BI dashboard** analyzing 5 years of stock market performance data (2013–2018) from the `all_stocks_5yr` dataset.  
+A **Power BI dashboard** analyzing 6 years of stock market performance data (2013–2018) from the `all_stocks_5yr` dataset.  
 This project visualizes trends, volatility, and company performance using interactive charts and KPI metrics.
 
 ---
@@ -36,13 +36,13 @@ This project visualizes trends, volatility, and company performance using intera
 ---
 
 ## 🔗 Dashboard File
-👉 [**Download Power BI (.pbix) from Google Drive**]([https://drive.google.com/file/d/1pcV8J8c6FJawQpBgPi4uoCJZ2ubzt6y9/view?usp=drive_link](https://drive.google.com/file/d/14tY4mpPZ_32Uanx4k48MBuh8nuS7jrKI/view?usp=drive_link))
+[Download Power BI (.pbix) File](https://drive.google.com/uc?export=download&id=14tY4mpPZ_32Uanx4k48MBuh8nuS7jrKI)
 
 ---
 
 ## 💡 Insights
-- Tech sector shows the highest price growth over 5 years.  
-- Volatility increased after 2016 for most high-growth stocks.  
+- Tech sector shows the highest price growth over 6 years.  
+- Volatility increased after 2016 for many high-growth stocks.  
 - KPI metrics clearly highlight market-wide performance trends.  
 
 ---
