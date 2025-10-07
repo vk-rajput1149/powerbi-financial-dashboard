@@ -1,12 +1,12 @@
 # 📊 Power BI Financial Dashboard (2013–2018)
 
-A **Power BI dashboard** analyzing 6 years of stock market performance data (2013–2018) from the `all_stocks_5yr` dataset.  
+A **Power BI dashboard** analyzing 5 years of stock market performance data (2013–2018) from the `all_stocks_5yr` dataset.  
 This project visualizes trends, volatility, and company performance using interactive charts and KPI metrics.
 
 ---
 
 ## 📈 Dashboard Overview
-![Dashboard Preview](./dashboard_preview.png)
+![Dashboard Preview](./images/dashboard_preview.png)
 
 ---
 
