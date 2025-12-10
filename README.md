@@ -41,7 +41,7 @@ This project visualizes trends, volatility, and company performance using intera
 ---
 
 ## 💡 Insights
-- Tech sector shows the highest price growth over 6 years.  
+- Tech sector shows the highest price growth over 5 years.  
 - Volatility increased after 2016 for many high-growth stocks.  
 - KPI metrics clearly highlight market-wide performance trends.  
 
